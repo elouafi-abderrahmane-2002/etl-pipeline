@@ -1,0 +1,4 @@
+pymongo
+boto3
+pyspark
+psycopg2-binary
